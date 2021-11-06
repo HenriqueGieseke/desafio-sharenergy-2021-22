@@ -24,6 +24,10 @@
 "typescript": "^4.1.2",
 "web-vitals": "^1.0.1"
 
+## Link para o vídeo
+
+https://www.youtube.com/watch?v=TouwabPxpws
+
 ## Iniciando a aplicação
 
 1. yarn
