@@ -1,10 +1,10 @@
 ## Visualização da aplicação
 
 #Gráfico
-![alt text](https://ibb.co/tZdgCSN)
+![Imagem da tela do grafico](https://i.ibb.co/n3W9kTV/view1-sharenergy-challenge.png)
 
 #CRUD
-![alt text](https://ibb.co/XXGXkLV)
+![Imagem da tela do CRUD](https://i.ibb.co/wy2yrgY/view2-sharenergy-challenge.png)
 
 ## Dependências
 
