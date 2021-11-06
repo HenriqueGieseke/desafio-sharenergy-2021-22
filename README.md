@@ -8,6 +8,7 @@
 
 ## Dependências
 
+```
 "@testing-library/jest-dom": "^5.11.4",
 "@testing-library/react": "^11.1.0",
 "@testing-library/user-event": "^12.1.10",
@@ -23,6 +24,7 @@
 "styled-components": "^5.3.3",
 "typescript": "^4.1.2",
 "web-vitals": "^1.0.1"
+```
 
 ## Link para o vídeo
 
@@ -36,4 +38,4 @@ https://www.youtube.com/watch?v=TouwabPxpws
 ## Funcionalidades
 
 1. Apresenta um gráfico monstrando informações de um dia de funcionamento de uma usina de energia solar. A variavel de interesse do gráfico pode ser mudada ao selecionar um input na tela.
-2. Apresenta a visualização de uma CRUD de clientes da usina que pode ser manipulada. O butão de criação de clientes se aparesenta ácima dos clientes e a edição e função de deletar podem ser acionadas pelos botões na caixa de visualização do próprio cliente.
+2. Apresenta a visualização de uma CRUD de clientes da usina que pode ser manipulada. O botão de criação de clientes se aparesenta acima dos clientes e a edição e função de deletar podem ser acionadas pelos botões na caixa de visualização do próprio cliente.
